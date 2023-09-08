@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-desafiototvs-dev-204625-authRole",
+      "UnauthRoleArn": "arn:aws:iam::198882899432:role/amplify-desafiototvs-dev-204625-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::198882899432:role/amplify-desafiototvs-dev-204625-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-desafiototvs-dev-204625-deployment",
+      "UnauthRoleName": "amplify-desafiototvs-dev-204625-unauthRole",
+      "StackName": "amplify-desafiototvs-dev-204625",
+      "StackId": "arn:aws:cloudformation:us-east-2:198882899432:stack/amplify-desafiototvs-dev-204625/9cb0aa60-4dbf-11ee-8c22-02e79328ebfd",
+      "AmplifyAppId": "d2ok4wt1mlkltj"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
