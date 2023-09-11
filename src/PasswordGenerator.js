@@ -71,6 +71,7 @@ function PasswordGenerator() {
     return (
         <div className="container password-generator">
             <h2>Gerador de Senha Segura</h2>
+            <h3>Insira sua senha:</h3>
             <input 
                 className="input-field"
                 type="text" 
