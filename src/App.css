@@ -8,3 +8,22 @@ input, button {
   margin: 10px;
   padding: 5px;
 }
+
+.container{
+  word-wrap: break-word; 
+  overflow-wrap: break-word;
+}
+
+
+.password-container {
+    word-wrap: break-word; 
+    overflow-wrap: break-word; 
+}
+
+
+@media (max-width: 768px) {
+    .password-container {
+        padding: 10px;
+        font-size: 14px; 
+    }
+}
