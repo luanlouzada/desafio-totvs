@@ -37,4 +37,6 @@ Este componente é responsável por exibir a senha ao usuário. Ele recupera o I
 
 ## Mais Informações:
 
+https://main.d2ok4wt1mlkltj.amplifyapp.com/ Link do projeto no AR
+
 Consulte os componentes individuais e seus respectivos comentários no código para obter detalhes adicionais sobre a implementação e funcionalidades.
